@@ -10,10 +10,3 @@
 ### Итог по Ghostty:
 
 Ghostty физически будет жить на жестком диске твоего локального Linux (WSL). Он будет использовать Linux-драйверы для связи с видеокартой, но рисовать свое окно будет прямо поверх твоего Windows. Это дает тебе лучшее от обоих миров: невероятную скорость Linux-терминала и комфорт Windows!
-
-& "C:\Git\cmd\git.exe" init "C:\Users\Victor\Documents\Obsidian Vault\Ghostty"
-
-git remote add origin [URL]
-
-repo:
-https://github.com/depotion2586/Obsidian-Sync.git
