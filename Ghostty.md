@@ -16,7 +16,7 @@ Ghostty создан для работы без мышки. Вот главны�
 Конфиг находится: `nano ~/.config/ghostty/config`:
 ```
 # Тема оформления (в Ghostty встроены сотни тем!)
-theme = "catppuccin-mocha"
+theme = "GitLab Dark Grey"
 
 # Настройка шрифта (укажи свой, если скачал Nerd Font)
 font-family = "JetBrainsMono Nerd Font"
@@ -27,7 +27,7 @@ window-padding-x = 10
 window-padding-y = 10
 
 # Скрываем стандартную рамку окна Linux (если поддерживается WSLg)
-window-decoration = false
+# window-decoration = false
 
 # Стиль курсора
 cursor-style = block
