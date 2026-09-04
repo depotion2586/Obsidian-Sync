@@ -13,44 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Заметки/Заметки.md",
+                "file": "Obsidian-Sync/Как установить Ghostty.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Заметки"
-            }
-          },
-          {
-            "id": "917ac007058c4e67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Обучение/Loopback интерфейсы.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Loopback интерфейсы"
-            }
-          },
-          {
-            "id": "e61608fc7d9a3737",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Обучение/NameSpaces.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NameSpaces"
+              "title": "Как установить Ghostty"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,12 +187,15 @@
   },
   "active": "10366a457daa1a8e",
   "lastOpenFiles": [
-    "Обучение/Loopback интерфейсы.md",
-    "Обучение/NameSpaces.md",
-    "Заметки/Заметки.md",
-    "Обучение",
     "Obsidian-Sync/Ghostty.md",
     "Obsidian-Sync/Как установить Ghostty.md",
+    "Ghostty.md",
+    "Как установить Ghostty.md",
+    "Заметки/Заметки.md",
+    "вфцвафцап",
+    "Обучение/Loopback интерфейсы.md",
+    "Обучение/NameSpaces.md",
+    "Обучение",
     "Заметки",
     "в"
   ]

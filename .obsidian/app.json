@@ -1,5 +1,6 @@
 {
-  "newFileLocation": "current",
+  "newFileLocation": "root",
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "showUnsupportedFiles": true
 }
