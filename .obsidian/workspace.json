@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ghostty/Как установить Ghostty.md",
+                "file": "Обучение/Network NameSpaces (netns).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Как установить Ghostty"
+              "title": "Network NameSpaces (netns)"
             }
           }
         ]
@@ -187,11 +187,11 @@
   },
   "active": "a3d02e272f1b9b06",
   "lastOpenFiles": [
-    "Ghostty/Ghostty.md",
-    "Ghostty/Как установить Ghostty.md",
-    "Ghostty",
-    "Обучение/NameSpaces.md",
     "Обучение/Loopback интерфейсы.md",
+    "Обучение/Network NameSpaces (netns).md",
+    "Ghostty/Как установить Ghostty.md",
+    "Ghostty/Ghostty.md",
+    "Ghostty",
     "Обучение",
     "Заметки/Заметки.md",
     "Заметки",

@@ -2,5 +2,14 @@
   "newFileLocation": "root",
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": false,
+  "showIndentGuide": true,
+  "smartIndentList": true,
+  "autoPairMarkdown": true,
+  "autoConvertHtml": true
 }
