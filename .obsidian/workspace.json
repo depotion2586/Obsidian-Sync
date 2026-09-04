@@ -11,14 +11,10 @@
             "id": "a3d02e272f1b9b06",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian-Sync/Как установить Ghostty.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Как установить Ghostty"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -185,7 +181,7 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "10366a457daa1a8e",
+  "active": "a3d02e272f1b9b06",
   "lastOpenFiles": [
     "Obsidian-Sync/Ghostty.md",
     "Obsidian-Sync/Как установить Ghostty.md",
