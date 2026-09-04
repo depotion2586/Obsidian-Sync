@@ -11,10 +11,14 @@
             "id": "a3d02e272f1b9b06",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Ghostty/Как установить Ghostty.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Как установить Ghostty"
             }
           }
         ]
@@ -183,16 +187,17 @@
   },
   "active": "a3d02e272f1b9b06",
   "lastOpenFiles": [
+    "Ghostty/Ghostty.md",
+    "Ghostty/Как установить Ghostty.md",
+    "Ghostty",
+    "Обучение/NameSpaces.md",
+    "Обучение/Loopback интерфейсы.md",
+    "Обучение",
+    "Заметки/Заметки.md",
+    "Заметки",
     "Obsidian-Sync/Ghostty.md",
     "Obsidian-Sync/Как установить Ghostty.md",
-    "Ghostty.md",
-    "Как установить Ghostty.md",
-    "Заметки/Заметки.md",
     "вфцвафцап",
-    "Обучение/Loopback интерфейсы.md",
-    "Обучение/NameSpaces.md",
-    "Обучение",
-    "Заметки",
     "в"
   ]
 }
