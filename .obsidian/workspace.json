@@ -1,41 +1,54 @@
 {
   "main": {
-    "id": "7c38ed123bfb0e96",
+    "id": "77db9d0392e49a1c",
     "type": "split",
     "children": [
       {
-        "id": "36af127a1afd2b4e",
+        "id": "0478bb87458fceac",
         "type": "tabs",
         "children": [
           {
-            "id": "a3d02e272f1b9b06",
+            "id": "73a713ec002a7360",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Обучение/Network NameSpaces (netns).md",
-                "mode": "source",
+                "file": "Обучение/Вопросы Linux/Loopback интерфейсы.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Network NameSpaces (netns)"
+              "title": "Loopback интерфейсы"
+            }
+          },
+          {
+            "id": "849888c950c63c90",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-09-06 19.18.31.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-09-06 19.18.31.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6ce786f8e4ed3ad4",
+    "id": "a04e147ff92c58da",
     "type": "split",
     "children": [
       {
-        "id": "dca2084d72884f57",
+        "id": "893788d0c64b4ea0",
         "type": "tabs",
         "children": [
           {
-            "id": "10366a457daa1a8e",
+            "id": "fc37b3752cd8da90",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,7 +63,7 @@
             }
           },
           {
-            "id": "28d84255a5a9545f",
+            "id": "a50849261c629a43",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +80,7 @@
             }
           },
           {
-            "id": "dbcf0e736710f819",
+            "id": "c7e438eed5dc9f8b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -83,22 +96,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 247.5
   },
   "right": {
-    "id": "45712cfcc9e98a37",
+    "id": "51a9ed8488f97e4c",
     "type": "split",
     "children": [
       {
-        "id": "e745d755b4bfecf3",
+        "id": "609bc73d11b50813",
         "type": "tabs",
         "children": [
           {
-            "id": "923484bad87b85e8",
+            "id": "2df47ef05701249d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Drawing 2026-09-06 19.18.31.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,11 +126,12 @@
             }
           },
           {
-            "id": "98fd648d5b3c2c19",
+            "id": "9fd21a2650bffc41",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Drawing 2026-09-06 19.18.31.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -125,7 +140,7 @@
             }
           },
           {
-            "id": "dbcc0a88133401af",
+            "id": "0b9bc9033b18a090",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -140,7 +155,7 @@
             }
           },
           {
-            "id": "9ec58911176343a0",
+            "id": "e404dd670ee31e96",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -154,11 +169,12 @@
             }
           },
           {
-            "id": "6741f155a44227b0",
+            "id": "e6ad2c77d4a65166",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Excalidraw/Drawing 2026-09-06 19.18.31.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -182,32 +198,34 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false
+      "bases:Создать новую базу": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "a3d02e272f1b9b06",
+  "active": "849888c950c63c90",
   "lastOpenFiles": [
-    "Мои проекты/Приложение конфигураций/Приложение инвентаризации.md",
-    "Мои проекты/Приложение конфигураций/Вопросы.md",
-    "Мои проекты/Сайт портфолио.md",
-    "Мои проекты/Приложение конфигураций",
-    "Мои проекты",
+    "Обучение/Вопросы Linux/Loopback интерфейсы.md",
+    "Excalidraw/Drawing 2026-09-06 19.18.31.excalidraw.md",
+    "Excalidraw",
+    "Обучение/Вопросы Linux/Network NameSpaces (netns).md",
+    "Обучение/Вопросы Linux/Veth Pairs.md",
+    "Git/Общая информация Git.md",
+    "Git/Команды Git.md",
+    "Без названия.base",
+    "Без названия 1.base",
+    "Проекты/Сайт портфолио/Сайт портфолио.md",
+    "Проекты/Приложение cбора конфигураций/Приложение сбора конфигурации.md",
+    "Проекты/Сайт портфолио",
+    "Проекты/Приложение cбора конфигураций",
+    "Проекты",
+    "Обучение/Программистские вопросы/Вопросы программистские.md",
+    "Обучение/Новая роадмапа/Глава 1..md",
     "Обучение/Программистские вопросы",
-    "Обучение/Глава 1/План обучения.md",
-    "Обучение/Глава 1",
-    "Git/Базовые команды Git.md",
-    "Git",
-    "Обучение/Loopback интерфейсы.md",
-    "Обучение/Network NameSpaces (netns).md",
-    "Ghostty/Как установить Ghostty.md",
-    "Ghostty/Ghostty.md",
-    "Ghostty",
+    "Обучение/Новая роадмапа",
+    "Обучение/Вопросы Linux",
     "Обучение",
-    "Заметки/Заметки.md",
-    "Заметки",
-    "Obsidian-Sync/Ghostty.md",
-    "Obsidian-Sync/Как установить Ghostty.md",
-    "вфцвафцап",
-    "в"
+    "Заметки/Заметки-synс.md",
+    "Ghostty/Как установить Ghostty.md",
+    "Ghostty/Ghostty.md"
   ]
 }
