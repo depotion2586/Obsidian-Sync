@@ -1,5 +1,5 @@
 %% Begin Waypoint %%
-- [[BGP BIRD]]
+- [[BIRD]]
 - [[ExaBGP]]
 - [[Loopback интерфейсы]]
 - [[Network NameSpaces (netns)]]
