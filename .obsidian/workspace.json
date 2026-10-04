@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Обучение/Вопросы Linux/Loopback интерфейсы.md",
-                "mode": "preview",
+                "file": "Fast Obsidian-Sync.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Loopback интерфейсы"
-            }
-          },
-          {
-            "id": "849888c950c63c90",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-09-06 19.18.31.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-09-06 19.18.31.excalidraw"
+              "title": "Fast Obsidian-Sync"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,30 +189,43 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "849888c950c63c90",
+  "active": "73a713ec002a7360",
   "lastOpenFiles": [
-    "Обучение/Вопросы Linux/Loopback интерфейсы.md",
+    "Obsidian-Sync.md",
+    "Fast Obsidian-Sync.md",
     "Excalidraw/Drawing 2026-09-06 19.18.31.excalidraw.md",
-    "Excalidraw",
-    "Обучение/Вопросы Linux/Network NameSpaces (netns).md",
-    "Обучение/Вопросы Linux/Veth Pairs.md",
-    "Git/Общая информация Git.md",
-    "Git/Команды Git.md",
-    "Без названия.base",
-    "Без названия 1.base",
-    "Проекты/Сайт портфолио/Сайт портфолио.md",
-    "Проекты/Приложение cбора конфигураций/Приложение сбора конфигурации.md",
-    "Проекты/Сайт портфолио",
-    "Проекты/Приложение cбора конфигураций",
-    "Проекты",
-    "Обучение/Программистские вопросы/Вопросы программистские.md",
-    "Обучение/Новая роадмапа/Глава 1..md",
-    "Обучение/Программистские вопросы",
-    "Обучение/Новая роадмапа",
-    "Обучение/Вопросы Linux",
-    "Обучение",
-    "Заметки/Заметки-synс.md",
-    "Ghostty/Как установить Ghostty.md",
-    "Ghostty/Ghostty.md"
+    "Проекты/Проекты.md",
+    "Проекты/Лабораторный стенд работы pmacct/Теория/Теория.md",
+    "Проекты/Лабораторный стенд работы pmacct/Теория/Netflow.md",
+    "Проекты/Лабораторный стенд работы pmacct/Теория/pmacct.md",
+    "Проекты/Лабораторный стенд работы pmacct/Теория/BIRD.md",
+    "Проекты/Лабораторный стенд работы pmacct/Теория/ExaBGP.md",
+    "Проекты/Лабораторный стенд работы pmacct/Теория",
+    "Проекты/Лабораторный стенд работы pmacct/План создания NetFlow инжектора.md",
+    "Проекты/Лабораторный стенд работы pmacct/План создания.md",
+    "Проекты/Лабораторный стенд работы pmacct/Описание проекта и лабораторного стенда.md",
+    "Проекты/Лабораторный стенд работы pmacct/Лабораторный стенд работы pmacct.md",
+    "Проекты/Лабораторный стенд работы pmacct/Конфигурация ExaBGP и BIRD.md",
+    "Проекты/Лабораторный стенд работы pmacct/Конфигурации и выводы команд до перехода на nfacctd.md",
+    "Проекты/Лабораторный стенд работы pmacct/Scheme.md",
+    "Проекты/Лабораторный стенд работы pmacct/NetFlow инжектор.md",
+    "Проекты/Лабораторный стенд работы pmacct",
+    "Обучение/Обучение.md",
+    "Обучение/Вопросы для разбора/Вопросы для разбора.md",
+    "Обучение/Вопросы для разбора/Python и Node.js.md",
+    "Обучение/Вопросы для разбора",
+    "Обучение/Python/Окружения venv.md",
+    "Обучение/Python/Python.md",
+    "Обучение/Python",
+    "Обучение/Linux/Veth Pairs.md",
+    "Обучение/Linux/Network NameSpaces (netns).md",
+    "Обучение/Linux/Loopback интерфейсы.md",
+    "Обучение/Linux/Linux.md",
+    "Обучение/Linux",
+    "Обучение/Git",
+    "Обучение/DevOps Roadmap",
+    "Work",
+    "SegoeUI Шрифт.woff2",
+    "Excalidraw"
   ]
 }
